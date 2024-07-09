@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>pa_br_lulc_30m_2021_mapbiomas</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">48</MDI>
+      <MDI key="STATISTICS_MEAN">17.860636330004</MDI>
+      <MDI key="STATISTICS_MINIMUM">3</MDI>
+      <MDI key="STATISTICS_STDDEV">12.181555033461</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">48.63</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
